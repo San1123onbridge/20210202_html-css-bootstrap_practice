@@ -1,7 +1,9 @@
 # 20210202_html-css-bootstrap_practice
 
 20210202 \
-嘗試使用bootstrap框架刻購物網站首頁及其他標籤頁。\
+嘗試使用bootstrap框架刻購物網站首頁及其他標籤頁 \
+首頁使用CSS動畫為圖片間隔一段時間換張 \
+- 網站的RWD尚未完成 \
 \
 Github Pages: \
 https://san1123onbridge.github.io/20210202_html-css-bootstrap_practice/
