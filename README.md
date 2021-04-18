@@ -1,7 +1,7 @@
 # 20210202_html-css-bootstrap_practice
 
 20210202 \
-嘗試使用bootstrap框架刻購物網站首頁及細項頁，僅PC端瀏覽 \
+嘗試使用bootstrap框架刻購物網站首頁及細項頁。\
 \
 Github Pages: \
 https://san1123onbridge.github.io/20210202_html-css-bootstrap_practice/
