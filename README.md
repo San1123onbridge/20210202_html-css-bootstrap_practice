@@ -4,7 +4,7 @@
 嘗試使用Bootstrap框架刻購物網站首頁及其他標籤頁。\
 首頁使用CSS動畫為圖片間隔一段時間換張，為各標籤頁設定的CSS放置於/changing/夾內。
 - 網站的RWD尚未完成 
-- 商品內頁尚未完成 \
+- 商品內頁尚未完成 (希望能串接資料庫告知存量於首頁，圖片和資料庫連動？) \
 \
 Github Pages: \
 https://san1123onbridge.github.io/20210202_html-css-bootstrap_practice/
